@@ -1,0 +1,140 @@
+### Step 2A
+/Users/jefebadquez
+
+### Step 2B
+1. cd /Users/jefebadquez/Desktop/
+	"cd " to change directory to Desktop
+2. "pwd" to show current directory 
+
+### Step 2C
+1. [previous steps above]
+2. cd /Users/jefebadquez/Desktop/unit1-git-practice/
+	"cd " to change directory from Desktop to unit1-git-practice
+3. "pwd" to show current directory 
+ 
+
+### Step 2D
+/Users/jefebadquez/Desktop/unit1-git-practice/ 
+
+### Step 2E
+1. [previous steps above]
+2. "ls" to list the file(s) currently in unit1-git-practice
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+1. "cd ~ " as a shortcut to go back to root directory--"~" stands for root directory in command line
+2. (optional) "pwd" to current directory 
+3. (optional) "ls" to make sure we are in the right directory 
+
+
+### Step 2H
+/Users/jefebadquez
+
+### Step 2I
+jefebadquez@Martinas-MacBook-Pro ~ % ls
+Applications		Downloads		Music			unit1PythonPractice
+Desktop			Library			Pictures
+Documents		Movies			Public
+
+### Step 2J
+1. "cd ~" as a shortcut to go back to root directory--"~" stands for root directory in command line
+2. (optional) "pwd" to current directory 
+
+### Step 2K
+1. cd Desktop/unit1-git-practice
+	"cd " using the relative path to get to desired directory 	
+2. "pwd" to show current directory  
+
+### Step 3A
+1. "mkdir" veggies
+2. "mkdir" meats
+3. "mkdir" desserts
+4. "ls" to confirm folders were made 
+
+### Step 3B
+1. "mv" desserts sweets
+2. "ls" to confirm changes were made 
+
+### Step 3C
+1. "mkdir" proteins 
+2. "ls" to confirm folder was made 
+
+### Step 3D
+1. "mv" meats proteins
+2. "ls" to confirm folder did no longer appeared in unit1-git-practice directory 
+3. "cd" proteins 
+4. "ls" to confirm move was made
+
+### Step 3E
+1. "cd .." to navigate back to parent folder, unit1-git-practice directory 
+2. (optional) "pwd" to current directory 
+3. (optional) "ls" to make sure we are in the right directory
+4. "cd" veggies  
+5. "touch" carrot.txt
+5. "touch" pea.txt 
+6. "ls" to confirm files were made 
+
+### Step 3F
+1. "cd .." to navigate back to parent folder, unit1-git-practice directory 
+2. "cd" sweets 
+3. "touch" cookie.txt
+6. "ls" to confirm files were made 
+
+### Step 3G
+1. "mv" cookie.txt donut.txt
+2. "ls" to confirm if file was renamed 
+
+### Step 3H
+1. "cd .."
+2. "touch" thing.txt
+3. "ls" 
+
+### Step 3I
+1. "cp" thing.txt tofu.txt
+2. "ls"
+
+### Step 3J
+1. "mv" tofu.txt proteins
+2. "cd" proteins 
+3. "ls"
+
+### Step 3K
+1. "cd .."
+2. "cp" thing.txt crab.txt
+3. "mv" crab.txt proteins 
+4. "cd" proteins
+5. "ls"
+6. "mv" crab.txt meats 
+5. "cd" meats 
+6. "ls"
+
+### Step 3L
+1. "cd .."
+2. "cd .."
+3. "rm" thing.txt 
+4. "ls"
+
+### Step 3M
+1. "pwd" to make sure I am still in the correct directory 
+2. "cp -r" veggies plants
+3. "ls"
+
+### Step 3N
+1. "mkdir" drinks 
+2. "ls"
+3. "rm -r" drinks 
+4. "ls"
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
