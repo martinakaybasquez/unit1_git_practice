@@ -143,7 +143,27 @@ git push -u origin main
 
 
 ### Step 6
+!!!! ACCIDENTALLY MADE "menu.txt" A FOLDER INSTEAD OF A FILE SO I HAD TO DELETE + REDO SO INCLUDING IT FOR GOOD PRACTICE ????
 
+[ADDING "menu.txt" AS A FOLDER]
+1. "pwd"
+2. "mkdir menu.txt"
+3. "ls"
+4. "git status"
+5. "git add ."  
+6. "git commit -m" "added 'menu.txt' and updated 'my-steps.txt' folder"  
+7. "git push"
+
+[CORRECTING MISTAKE]
+1a. "pwd"
+2a. "rm -r" menu.txt
+3a. "ls"
+4a. "touch" menu.txt
+5a. "ls"
+6a. "git status" 
+7a. "git add ."  
+8a. "git commit -m" "starting a menu (for real this time)"
+9a. "git push" 
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
