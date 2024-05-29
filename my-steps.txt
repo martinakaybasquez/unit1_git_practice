@@ -135,6 +135,11 @@ Documents		Movies			Public
  
 
 ### Step 5
+!!!! I HAD MANY ISSUES DURING THIS STEP AND HAD TO CHATGPT FIXING THE MAJOR ISSUES (PRIMARILY AUTHENTICATION ISSUES) SO I AM NOT REALLY SURE HOW I GOT TO WHERE I NEEDED !!!!
+
+git remote add origin https://github.com/martinakaybasquez/unit1_git_practice.git
+git branch -M main
+git push -u origin main
 
 
 ### Step 6
